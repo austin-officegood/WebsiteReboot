@@ -105,6 +105,26 @@
 
 
 
+
+
+/* Footer */
+
+.footer-style {
+    padding: 20px 0px 10px;
+    font-size: 9pt;
+    font-weight: normal;
+    border-top: solid 0px #eeeeee;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+  }
+
+
+
+
+
+  
+
 /*      @keyframe       */
 
 @keyframes fadeIn{
